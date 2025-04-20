@@ -5,7 +5,7 @@ Hi [Team],
 Based on our initial vulnerability scan and assessment, we have created a set of scripts to help you tackle the initial remediation efforts. These scripts target key vulnerabilities and can be easily integrated into your deployment platform (e.g., SCCM). Please test them before deploying to production.
 
 **Vulnerabilities and Remediations:**
-1. Third-Party Software Removal (Wireshark)
+1. [Third-Party Software Removal (Wireshark)]()
 2. Windows OS Secure Configuration (Insecure Protocols)
 3. Windows OS Secure Configuration (Insecure Ciphersuites)
 4. Windows OS Secure Configuration (Guest Account Group Membership)
